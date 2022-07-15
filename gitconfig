@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alex@just-ethics.com
+	name = Alex
